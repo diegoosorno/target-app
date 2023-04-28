@@ -2,11 +2,8 @@
   package="com.targetapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
-<<<<<<< HEAD
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-=======
->>>>>>> origin/main
 
     <application
       android:name=".MainApplication"
@@ -22,7 +19,6 @@
         android:launchMode="singleTask"
         android:windowSoftInputMode="adjustResize"
         android:exported="true">
-<<<<<<< HEAD
         <intent-filter android:autoVerify="true">
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
@@ -41,12 +37,6 @@
             <data android:scheme="https" />
             <data android:host="www.adobe-adl.com" />
         </intent-filter>
-=======
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
->>>>>>> origin/main
       </activity>
     </application>
 </manifest>
