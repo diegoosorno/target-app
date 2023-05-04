@@ -66,7 +66,15 @@
             android:name="com.adobe.marketing.mobile.LocalNotificationHandler"
             android:exported="false" />
 
-        <activity android:name="com.adobe.marketing.mobile.AssuranceErrorDisplayActivity" />
+        <activity
+            android:name="com.adobe.marketing.mobile.assurance.AssuranceFullScreenTakeoverActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.adobe.marketing.mobile.assurance.AssuranceErrorDisplayActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.adobe.marketing.mobile.assurance.AssuranceQuickConnectActivity"
+            android:exported="false" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

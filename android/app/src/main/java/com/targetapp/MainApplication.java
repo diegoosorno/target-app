@@ -11,6 +11,9 @@ import com.adobe.marketing.mobile.Signal;
 import com.adobe.marketing.mobile.Edge;
 import com.adobe.marketing.mobile.edge.identity.Identity;
 import com.adobe.marketing.mobile.Target;
+import com.adobe.marketing.mobile.Assurance;
+
+
 //import com.adobe.marketing.mobile.edge.consent.Consent;
 
 import android.app.Application;
@@ -84,11 +87,14 @@ public class MainApplication extends Application implements ReactApplication {
             Signal.EXTENSION,
             Identity.EXTENSION,
             Edge.EXTENSION,
-            Target.EXTENSION);
+            Target.EXTENSION,
+            Assurance.EXTENSION
+            );
               //com.adobe.marketing.mobile.edge.identity.Identity.EXTENSION,
               //Consent.EXTENSION);
     MobileCore.registerExtensions(extensions, o -> {
         Log.d("LOG_TAG", "AEP Mobile SDK is initialized");
+        Assurance.startSession("http://www.adobe-adl.com/?adb_validation_sessionid=5528e91f-0377-443d-9802-cc645756cdc3");
         MobileCore.lifecycleStart(null);
           //enable this for Lifecycle. See Note for collecting Lifecycle metrics.
       });

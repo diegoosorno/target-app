@@ -33,7 +33,7 @@ MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/carlos.vasquez
 MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/f12e9d58f545dc528f5c5d303fc2b907/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/72898a632139019e38bc9fa5121bc1f7/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/1d1edd6ff4f1a69fd6c2a9b7b9361b66/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:2:1-16:12
+MERGED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:12:1-31:12
 MERGED from [com.adobe.marketing.mobile:signal:2.0.1] /Users/carlos.vasquez/.gradle/caches/transforms-3/35c648e64660925a8f67a12d883bb013/transformed/jetified-signal-2.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.adobe.marketing.mobile:identity:2.0.2] /Users/carlos.vasquez/.gradle/caches/transforms-3/a41ffceaacb8042b474d21c683cfd524/transformed/jetified-identity-2.0.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.adobe.marketing.mobile:lifecycle:2.0.1] /Users/carlos.vasquez/.gradle/caches/transforms-3/2cb6ce813cc1064f1922f9e473aff0a4/transformed/jetified-lifecycle-2.0.1/AndroidManifest.xml:2:1-9:12
@@ -128,8 +128,8 @@ MERGED from [com.facebook.react:react-native:0.70.6] /Users/carlos.vasquez/.grad
 MERGED from [com.facebook.react:react-native:0.70.6] /Users/carlos.vasquez/.gradle/caches/transforms-3/0b825f9a3cd84cf1738e48fbfed11fea/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/87826452408345e9fcde9828ee0fb34c/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/87826452408345e9fcde9828ee0fb34c/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:11:5-14:19
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:11:5-14:19
+MERGED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:19:5-29:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/ff7f9e1ea9c2e709fffb9e018f2252cf/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/ff7f9e1ea9c2e709fffb9e018f2252cf/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
@@ -276,8 +276,8 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/carlos.vasq
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/72898a632139019e38bc9fa5121bc1f7/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/1d1edd6ff4f1a69fd6c2a9b7b9361b66/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/1d1edd6ff4f1a69fd6c2a9b7b9361b66/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:15:5-17:41
+MERGED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:15:5-17:41
 MERGED from [com.adobe.marketing.mobile:signal:2.0.1] /Users/carlos.vasquez/.gradle/caches/transforms-3/35c648e64660925a8f67a12d883bb013/transformed/jetified-signal-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.adobe.marketing.mobile:signal:2.0.1] /Users/carlos.vasquez/.gradle/caches/transforms-3/35c648e64660925a8f67a12d883bb013/transformed/jetified-signal-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.adobe.marketing.mobile:identity:2.0.2] /Users/carlos.vasquez/.gradle/caches/transforms-3/a41ffceaacb8042b474d21c683cfd524/transformed/jetified-identity-2.0.2/AndroidManifest.xml:5:5-7:41
@@ -398,8 +398,6 @@ ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/carlos.vasquez/.gradle/
 		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
 activity#com.adobe.marketing.mobile.AssuranceFullScreenTakeoverActivity
 ADDED from [:adobe_react-native-aepassurance] /Users/carlos.vasquez/target-app/node_modules/@adobe/react-native-aepassurance/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-99
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:12:9-99
-MERGED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:12:9-99
 	android:name
 		ADDED from [:adobe_react-native-aepassurance] /Users/carlos.vasquez/target-app/node_modules/@adobe/react-native-aepassurance/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:19-96
 activity#com.adobe.marketing.mobile.FullscreenMessageActivity
@@ -414,10 +412,24 @@ ADDED from [:adobe_react-native-aepcore] /Users/carlos.vasquez/target-app/node_m
 		ADDED from [:adobe_react-native-aepcore] /Users/carlos.vasquez/target-app/node_modules/@adobe/react-native-aepcore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
 	android:name
 		ADDED from [:adobe_react-native-aepcore] /Users/carlos.vasquez/target-app/node_modules/@adobe/react-native-aepcore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-79
-activity#com.adobe.marketing.mobile.AssuranceErrorDisplayActivity
-ADDED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:13:9-93
+activity#com.adobe.marketing.mobile.assurance.AssuranceFullScreenTakeoverActivity
+ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from [com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:13:19-90
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:21:13-100
+activity#com.adobe.marketing.mobile.assurance.AssuranceErrorDisplayActivity
+ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:24:13-94
+activity#com.adobe.marketing.mobile.assurance.AssuranceQuickConnectActivity
+ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:27:13-94
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20

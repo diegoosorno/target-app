@@ -1,10 +1,10 @@
 com.targetapp-jetified-flipper-0.125.0-0 /Users/carlos.vasquez/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/res
 com.targetapp-jetified-react-native-0.70.6-debug-1 /Users/carlos.vasquez/.gradle/caches/transforms-3/0b825f9a3cd84cf1738e48fbfed11fea/transformed/jetified-react-native-0.70.6-debug/res
 com.targetapp-lifecycle-viewmodel-2.3.1-2 /Users/carlos.vasquez/.gradle/caches/transforms-3/0bbaa5972f900275fec64cf526ac0bea/transformed/lifecycle-viewmodel-2.3.1/res
-com.targetapp-jetified-assurance-1.0.4-3 /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/res
-com.targetapp-appcompat-1.4.1-4 /Users/carlos.vasquez/.gradle/caches/transforms-3/1b40e4574e76bff5831ef4bf4270480d/transformed/appcompat-1.4.1/res
-com.targetapp-jetified-viewpager2-1.0.0-5 /Users/carlos.vasquez/.gradle/caches/transforms-3/237960ca1607edccd2d98c15f52b2dce/transformed/jetified-viewpager2-1.0.0/res
-com.targetapp-jetified-appcompat-resources-1.4.1-6 /Users/carlos.vasquez/.gradle/caches/transforms-3/25ca79b7ef1a689e48a9ba2099d7ac89/transformed/jetified-appcompat-resources-1.4.1/res
+com.targetapp-appcompat-1.4.1-3 /Users/carlos.vasquez/.gradle/caches/transforms-3/1b40e4574e76bff5831ef4bf4270480d/transformed/appcompat-1.4.1/res
+com.targetapp-jetified-viewpager2-1.0.0-4 /Users/carlos.vasquez/.gradle/caches/transforms-3/237960ca1607edccd2d98c15f52b2dce/transformed/jetified-viewpager2-1.0.0/res
+com.targetapp-jetified-appcompat-resources-1.4.1-5 /Users/carlos.vasquez/.gradle/caches/transforms-3/25ca79b7ef1a689e48a9ba2099d7ac89/transformed/jetified-appcompat-resources-1.4.1/res
+com.targetapp-jetified-assurance-2.1.0-6 /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/res
 com.targetapp-constraintlayout-1.1.3-7 /Users/carlos.vasquez/.gradle/caches/transforms-3/2ff721a32c6d5efc78c35178a846c314/transformed/constraintlayout-1.1.3/res
 com.targetapp-cardview-1.0.0-8 /Users/carlos.vasquez/.gradle/caches/transforms-3/3cb37a6faf29ddf73604c194d6dae8fd/transformed/cardview-1.0.0/res
 com.targetapp-jetified-startup-runtime-1.0.0-9 /Users/carlos.vasquez/.gradle/caches/transforms-3/3e0d478508575b75c79938eb5fb0fb04/transformed/jetified-startup-runtime-1.0.0/res

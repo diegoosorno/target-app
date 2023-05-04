@@ -7,6 +7,7 @@ import Home from './screens/Home';
 import DetailsScreen from './screens/Details';
 import { Target } from "@adobe/react-native-aeptarget";
 
+
 const linking = {
   prefixes: [
     'targetapp://', 'http://www.adobe-adl.com'

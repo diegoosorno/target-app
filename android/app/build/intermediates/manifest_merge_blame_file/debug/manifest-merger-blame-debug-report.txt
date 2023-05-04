@@ -128,31 +128,46 @@
 67            android:exported="false" />
 67-->[:adobe_react-native-aepcore] /Users/carlos.vasquez/target-app/node_modules/@adobe/react-native-aepcore/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
 68
-69        <activity android:name="com.adobe.marketing.mobile.AssuranceErrorDisplayActivity" />
-69-->[com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:13:9-93
-69-->[com.adobe.marketing.mobile:assurance:1.0.4] /Users/carlos.vasquez/.gradle/caches/transforms-3/18e94d0ecc0c2a5b71cb062dea4079bf/transformed/jetified-assurance-1.0.4/AndroidManifest.xml:13:19-90
-70
-71        <provider
-71-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-72            android:name="androidx.startup.InitializationProvider"
-72-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-73            android:authorities="com.targetapp.androidx-startup"
-73-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
-74            android:exported="false" >
-74-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
-75            <meta-data
-75-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-76-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
-77                android:value="androidx.startup" />
-77-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
-78            <meta-data
-78-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-79-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-80                android:value="androidx.startup" />
-80-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-81        </provider>
-82    </application>
-83
-84</manifest>
+69        <activity
+69-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:20:9-22:40
+70            android:name="com.adobe.marketing.mobile.assurance.AssuranceFullScreenTakeoverActivity"
+70-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:21:13-100
+71            android:exported="false" />
+71-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:22:13-37
+72        <activity
+72-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:23:9-25:40
+73            android:name="com.adobe.marketing.mobile.assurance.AssuranceErrorDisplayActivity"
+73-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:24:13-94
+74            android:exported="false" />
+74-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:25:13-37
+75        <activity
+75-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:26:9-28:40
+76            android:name="com.adobe.marketing.mobile.assurance.AssuranceQuickConnectActivity"
+76-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:27:13-94
+77            android:exported="false" />
+77-->[com.adobe.marketing.mobile:assurance:2.1.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/2ce9f48448aff7a5e83a80f376982666/transformed/jetified-assurance-2.1.0/AndroidManifest.xml:28:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+81            android:authorities="com.targetapp.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.0.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/b6fe4da57007a43d86a66ba4c66459bd/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/carlos.vasquez/.gradle/caches/transforms-3/bc74a39e1ea23fea00bfcf2682a93948/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>
