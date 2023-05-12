@@ -1,11 +1,10 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Main from './screens/Main';
 import Home from './screens/Home';
 import DetailsScreen from './screens/Details';
-import { Target } from "@adobe/react-native-aeptarget";
 
 
 const linking = {
@@ -22,8 +21,6 @@ const linking = {
 };
 
 const Stack = createNativeStackNavigator();
-const version = Target.extensionVersion();
-console.log("AdobeExperienceSDK: AEPTarget version: " + JSON.stringify(version));
 const App = () => (
   <NavigationContainer linking={linking} fallback={<Text>Loading...</Text>}>
     <Stack.Navigator>
