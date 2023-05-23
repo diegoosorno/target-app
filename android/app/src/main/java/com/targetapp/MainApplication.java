@@ -4,14 +4,16 @@ package com.targetapp;
 
 import com.adobe.marketing.mobile.AdobeCallback;
 import com.adobe.marketing.mobile.Assurance;
+import com.adobe.marketing.mobile.Edge;
 import com.adobe.marketing.mobile.Extension;
-import com.adobe.marketing.mobile.Identity;
+//import com.adobe.marketing.mobile.Identity;
 import com.adobe.marketing.mobile.Lifecycle;
 import com.adobe.marketing.mobile.LoggingMode;
 import com.adobe.marketing.mobile.MobileCore;
 import com.adobe.marketing.mobile.Signal;
 import com.adobe.marketing.mobile.Target;
 import com.adobe.marketing.mobile.UserProfile;
+import com.adobe.marketing.mobile.edge.identity.Identity;
 
 import android.app.Application;
 import android.content.Context;
@@ -80,9 +82,11 @@ public class MainApplication extends Application implements ReactApplication {
     MobileCore.setLogLevel(LoggingMode.DEBUG);
     MobileCore.configureWithAppID(ENVIRONMENT_FILE_ID);
     List<Class<? extends Extension>> extensions = Arrays.asList(
+            com.adobe.marketing.mobile.edge.identity.Identity.EXTENSION,
+            com.adobe.marketing.mobile.Identity.EXTENSION,
+            Edge.EXTENSION,
             Assurance.EXTENSION,
             Target.EXTENSION,
-            Identity.EXTENSION,
             Lifecycle.EXTENSION,
             Signal.EXTENSION,
             UserProfile.EXTENSION
@@ -90,8 +94,7 @@ public class MainApplication extends Application implements ReactApplication {
     MobileCore.registerExtensions(extensions, o -> {
         Log.d("LOG_TAG", "AEP Mobile SDK is initialized");
         MobileCore.lifecycleStart(null);
-        Assurance.startSession("targetapp://home?adb_validation_sessionid=5b98b166-b555-49f9-bacd-88d6c55da9f7");
-          //enable this for Lifecycle. See Note for collecting Lifecycle metrics.
+
       });
   }
 
